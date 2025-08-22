@@ -42,3 +42,6 @@ Add reproduction behavior.
 Determine real-time equivalences for ticks (e.g., 1 tick = 1 hour).
 
 Simulate population dynamics and broader ecological impacts.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
