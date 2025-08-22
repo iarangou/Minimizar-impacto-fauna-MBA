@@ -1,4 +1,4 @@
-# Amphibian-Crossing Simulation (NetLogo)
+# Wildlife-Crossing Simulation (NetLogo)
 
 This NetLogo project simulates the movement of toads and moorhens through a fragmented landscape intersected by a road. The model explores how species form emergent paths, respond to seasonal food sources, and interact with mitigation features like green crossings.
 
